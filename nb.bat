@@ -1,0 +1,1 @@
+activate base && jupyter notebook

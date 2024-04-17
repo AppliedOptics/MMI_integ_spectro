@@ -1,0 +1,1 @@
+activate base && jupyter notebook --port=8383 --NotebookApp.token='photon'
