@@ -1,0 +1,7 @@
+# ignoring all COPIES of same script used by Helio and Zoe, and the csv files it may generate
+
+*.csv
+.ipynb_checkpoints
+__pycache__
+*HELIO
+*ZOE
